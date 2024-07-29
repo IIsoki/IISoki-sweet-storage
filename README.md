@@ -82,8 +82,8 @@
 }
 ```
 
-### spin
-##### spin like a fish
+### ice skating
+##### Lucius Best/frozone
 ```json
 {
     "FFlagSimAdaptiveTimesteppingDefault2": "True",
@@ -144,13 +144,12 @@
 
 <h1 align="center">༺❀༻━━━━≾𝖢𝗈𝗈𝗅 𝖲𝗍𝗎𝖿𝖿≿━━━━༺❀༻</h1>
 
-### Circle under a player
-##### i have no clue why i added this
+### slowmo
+##### https://www.youtube.com/watch?v=fUtlqtdn1Xo
 
 ```json
 {
-    "FFlagDebugAvatarChatVisualization": "True",
-    "FFlagEnableInGameMenuChromeABTest2": "False"
+    "DFIntMaxMissedWorldStepsRemembered": "1000"
 }
 ```
 
@@ -163,12 +162,34 @@
 ```
 
 ### Google
-##### have google inside your roblox (click on the 13+ badge)
+##### have google inside your roblox (click on the 13+ badge then click learn more)
 ```json
 {
     "FFlagTopBarUseNewBadge": "True",
     "FStringTopBarBadgeLearnMoreLink": "https://google.com/",
     "FStringVoiceBetaBadgeLearnMoreLink": "https://google.com/"
+}
+```
+
+### little bit brighter
+```json
+{
+    "FFlagRenderFixFog": "True"
+}
+```
+
+### HellYeah!!!🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅 (does nothing)
+##### HellYeah!!!🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅
+```json
+{
+    "FFlagHellYeah!!!🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅": "True"
+}
+```
+
+### change zoom limit
+```json
+{
+    "FIntCameraMaxZoomDistance": "200"
 }
 ```
 
